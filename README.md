@@ -32,7 +32,7 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 ## 🏫 Informações Acadêmicas
 
 - **Disciplina:** Programação Orientada a Objetos (POO)  
-- **Professor:** Roger  
+- **Professor:** Roger Moura Sarmento
 - **Instituição:** IFCE – Campus Maranguape  
 
 ---
