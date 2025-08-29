@@ -6,13 +6,6 @@
 
 ---
 
-## 🏷️ Informações do Repositório
-
-![Disciplina](https://img.shields.io/badge/Disciplina-POO-blue)
-![Professor](https://img.shields.io/badge/Professor-Roger-green)
-![Instituição](https://img.shields.io/badge/IFCE-Campus%20Maranguape-orange)
-
----
 
 ## 📂 Estrutura do Repositório
 
@@ -44,4 +37,10 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 
 ---
 
-✨ *Repositório criado para fins acadêmicos e de aprendizado.*
+## 🏷️ Informações do Repositório
+
+![Disciplina](https://img.shields.io/badge/Disciplina-POO-blue)
+![Professor](https://img.shields.io/badge/Professor-Roger-green)
+![Instituição](https://img.shields.io/badge/IFCE-Campus%20Maranguape-orange)
+
+---
