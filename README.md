@@ -7,7 +7,7 @@
 ---
 
 
-## 📂 capituolos e conteúdos de cada lista do Repositório
+## 📂 capitulos e conteúdos de cada lista do Repositório
 
 - 📝 **Lista 01**  
   - **Capítulo 3 – Estrutura Sequencial**  
