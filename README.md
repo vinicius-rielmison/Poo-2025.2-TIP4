@@ -1,4 +1,4 @@
-![Banner POO](https://images.unsplash.com/photo-1581091215369-8b8f3f6a8e54?auto=format&fit=crop&w=1350&q=80)
+
 
 # 📘 Programação Orientada a Objetos (POO)
 
