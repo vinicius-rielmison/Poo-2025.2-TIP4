@@ -37,28 +37,43 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 
 ---
 
-
-
-## 📂 Estrutura do completa do Repositório
+## 📂 Estrutura do Repositório Completa
 
 ```text
 poo-2025.2-TIP4/
 │
 ├─ Lista01/
 │   ├─ Exercícios-resolvidos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   ├─ Exercícios-propostos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   └─ README.md
 │
 ├─ Lista02/
 │   ├─ Exercícios-resolvidos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   ├─ Exercícios-propostos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   └─ README.md
 │
 ├─ Lista03/
 │   ├─ Exercícios-resolvidos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   ├─ Exercícios-propostos/
+│   │   ├─ Questão01/
+│   │   ├─ Questão02/
+│   │   └─ ...
 │   └─ README.md
 │
 └─ README.md
-
 
