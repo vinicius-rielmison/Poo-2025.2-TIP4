@@ -29,7 +29,7 @@ O objetivo deste repositório é **registrar e organizar as listas de exercício
 ## 🏫 Informações  
 
 - **Disciplina:** Programação Orientada a Objetos (POO)  
-- **Professor:** Roger  
+- **Professor:** Roger Moura Sarmento 
 - **Instituição:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará – Campus Maranguape  
 
 ---
