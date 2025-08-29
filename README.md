@@ -7,7 +7,7 @@
 ---
 
 
-## 📂 Estrutura do Repositório
+## 📂 capituolos e conteúdos de cada lista do Repositório
 
 - 📝 **Lista 01**  
   - **Capítulo 3 – Estrutura Sequencial**  
@@ -36,6 +36,30 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 - **Instituição:** IFCE – Campus Maranguape  
 
 ---
+
+
+
+## 📂 Estrutura do completa do Repositório
+
+```text
+poo-2025.2-TIP4/
+│
+├─ Lista01/
+│   ├─ Exercícios-resolvidos/
+│   ├─ Exercícios-propostos/
+│   └─ README.md
+│
+├─ Lista02/
+│   ├─ Exercícios-resolvidos/
+│   ├─ Exercícios-propostos/
+│   └─ README.md
+│
+├─ Lista03/
+│   ├─ Exercícios-resolvidos/
+│   ├─ Exercícios-propostos/
+│   └─ README.md
+│
+└─ README.md
 
 ## 🏷️ Informações do Repositório
 
