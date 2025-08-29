@@ -61,10 +61,4 @@ poo-2025.2-TIP4/
 │
 └─ README.md
 
-## 🏷️ Informações do Repositório
 
-![Disciplina](https://img.shields.io/badge/Disciplina-POO-blue)
-![Professor](https://img.shields.io/badge/Professor-Roger-green)
-![Instituição](https://img.shields.io/badge/IFCE-Campus%20Maranguape-orange)
-
----
