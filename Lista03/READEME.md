@@ -7,9 +7,9 @@
 
 ## ✅ Exercícios Resolvidos
 
-1. **Questão 1** – _[adicione aqui o enunciado da questão resolvida 1]_  
-2. **Questão 2** – _[adicione aqui o enunciado da questão resolvida 2]_  
-3. **Questão 3** – _[adicione aqui o enunciado da questão re
+1. 
+2. 
+3.
 ...
 ## ✏️ Exercícios Propostos
 
