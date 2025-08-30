@@ -36,8 +36,8 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 - **Instituição:** IFCE – Campus Maranguape 
 - **Equipe Poo :**
 - **aluno 1** : vinicius rielmison rocha de sousa
--  **aluno 1** : Ana Hillary
--  **aluno 1** : Eric Vale
+-  **aluno 2** : Ana Hillary
+-  **aluno 3** : Eric Vale
 
 ---
 
