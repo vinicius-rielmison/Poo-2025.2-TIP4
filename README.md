@@ -35,10 +35,9 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 - **Professor:** Roger Moura Sarmento
 - **Instituição:** IFCE – Campus Maranguape 
 - **Equipe Poo :**
-- **aluno 1** : vinicius rielmison rocha de sousa
--  **aluno 2** : Ana Hillary
--  **aluno 3** : Eric Vale
-
+- **aluno 1** : [Ana Hillary Barbosa Rodrigues Pessoa](https://github.com/anaHillaryx)
+-  **aluno 2** : [Vinicius Rielmison Rocha de Sousa](https://github.com/7777755134) 
+-  **aluno 3** : [Eric Vale de Souza](https://github.com/mdleric)
 ---
 
 ## 📂 Estrutura do Repositório Completa
