@@ -1,13 +1,10 @@
-
-
 # 📘 Programação Orientada a Objetos (POO)
 
 > Repositório com as listas de exercícios da disciplina **POO**, ministrada pelo **professor Roger**, no **IFCE - Campus Maranguape**.  
 
 ---
 
-
-## 📂 capitulos e conteúdos de cada lista do Repositório
+## 📂 Capitulos e Conteúdos de Cada Lista do Repositório
 
 - 📝 **Lista 01**  
   - **Capítulo 3 – Estrutura Sequencial**  
@@ -15,7 +12,7 @@
 
 - 🔁 **Lista 02**  
   - **Capítulos 4 e 5 – Estruturas de Repetição**  
-  - Contém: Exercícios resolvidos e propostos  
+  - Contém: Exercícios resolvidos e propostos, organizados por capítulo  
 
 - 📊 **Lista 03**  
   - **Capítulo 6 (Vetores) e Capítulo 8 (Sub-rotinas)**  
@@ -32,12 +29,13 @@ Organizar as listas de exercícios da disciplina de POO para estudo, prática e 
 ## 🏫 Informações Acadêmicas
 
 - **Disciplina:** Programação Orientada a Objetos (POO)  
-- **Professor:** Roger Moura Sarmento
-- **Instituição:** IFCE – Campus Maranguape 
-- **Equipe Poo :**
-- **aluno 1** : [Ana Hillary Barbosa Rodrigues Pessoa](https://github.com/anaHillaryx)
--  **aluno 2** : [Vinicius Rielmison Rocha de Sousa](https://github.com/7777755134) 
--  **aluno 3** : [Eric Vale de Souza](https://github.com/mdleric)
+- **Professor:** Roger Moura Sarmento  
+- **Instituição:** IFCE – Campus Maranguape  
+- **Equipe Poo :**  
+- **Aluno 1:** [Ana Hillary Barbosa Rodrigues Pessoa](https://github.com/anaHillaryx)  
+- **Aluno 2:** [Vinicius Rielmison Rocha de Sousa](https://github.com/7777755134)  
+- **Aluno 3:** [Eric Vale de Souza](https://github.com/mdleric)  
+
 ---
 
 ## 📂 Estrutura do Repositório Completa
@@ -57,14 +55,28 @@ poo-2025.2-TIP4/
 │   └─ README.md
 │
 ├─ Lista02/
-│   ├─ Exercícios-resolvidos/
-│   │   ├─ Questão01/
-│   │   ├─ Questão02/
-│   │   └─ ...
-│   ├─ Exercícios-propostos/
-│   │   ├─ Questão01/
-│   │   ├─ Questão02/
-│   │   └─ ...
+│   ├─ Capitulo04/
+│   │   ├─ Exercícios-resolvidos/
+│   │   │   ├─ Questão01/
+│   │   │   ├─ Questão02/
+│   │   │   └─ ...
+│   │   ├─ Exercícios-propostos/
+│   │   │   ├─ Questão01/
+│   │   │   ├─ Questão02/
+│   │   │   └─ ...
+│   │   └─ README.md
+│   │
+│   ├─ Capitulo05/
+│   │   ├─ Exercícios-resolvidos/
+│   │   │   ├─ Questão01/
+│   │   │   ├─ Questão02/
+│   │   │   └─ ...
+│   │   ├─ Exercícios-propostos/
+│   │   │   ├─ Questão01/
+│   │   │   ├─ Questão02/
+│   │   │   └─ ...
+│   │   └─ README.md
+│   │
 │   └─ README.md
 │
 ├─ Lista03/
@@ -79,4 +91,3 @@ poo-2025.2-TIP4/
 │   └─ README.md
 │
 └─ README.md
-
