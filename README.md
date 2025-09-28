@@ -15,7 +15,7 @@
   - Contém: Exercícios resolvidos e propostos, organizados por capítulo  
 
 - 📊 **Lista 03**  
-  - **Capítulo 6 (Vetores) e Capítulo 8 (Sub-rotinas)**  
+  - **Capítulo 8 (Sub-rotinas)**  
   - Contém: Exercícios resolvidos e propostos  
 
 ---
