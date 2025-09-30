@@ -1,0 +1,27 @@
+package br.edu.princpal;
+
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	       Scanner sc = new Scanner(System.in);
+
+	        System.out.println("Digite horas, minutos e segundos:");
+	        int h = sc.nextInt();
+	        int m = sc.nextInt();
+	        int s = sc.nextInt();
+
+	        int totalSegundos = converterParaSegundos(h, m, s);
+	        System.out.println("Total em segundos: " + totalSegundos);
+
+	        sc.close();
+	    }
+
+	    public static int converterParaSegundos(int horas, int minutos, int segundos) {
+	        return horas * 3600 + minutos * 60 + segundos;
+	    }
+	}
+
+
